@@ -1,0 +1,68 @@
+img{
+    width: 60%;
+    height: 50px;
+    padding: 10px 50px ;
+    float: left;
+}
+.totalNav{
+    display: flex;
+}
+.rightNav{
+    float: right;
+}
+.leftNav{
+    width: 70%;
+}
+
+.second-potion{
+    height: 300px;
+    width: 100%;
+}
+
+.bestFood{
+    padding: 100px;
+    margin-left: 200px;
+}
+
+.background-header{
+    background-image: url('../../hot-onion-restaurent-resources/bannerbackground.png');
+    height: 300px;
+    margin: 0px 20px;
+    width: 100%;
+}
+.background-header h1{
+    text-align: center;
+}
+
+.wholeHeader{
+    margin: 0px 100px;
+}
+
+.login-button{
+    margin: 10px;
+    background-color: green;
+    border-radius: 20px;
+    padding: 5px 20px;
+    color: white;
+}
+.signup-button{
+    margin: 10px;
+    background-color: red;
+    border-radius: 20px;
+    padding: 5px 20px;
+    color: white;
+}
+
+.select-time{
+    margin-top: 30px;
+}
+
+.select-time a{
+    margin: 5px;
+    padding: 3px;
+}
+
+.select-time a:hover{
+    border-bottom: 1px solid rgb(47, 58, 26);
+    text-decoration: none;
+}
